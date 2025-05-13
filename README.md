@@ -1,7 +1,7 @@
 ## Hi there 👋, im Kevin
-I am a postgraduate computer science student at the university of Auckland, looking to finish my postgraduate diploma in Computer Science in 2025. 
+I am a postgraduate computer science student 🎓 at the University of Auckland 🇳🇿, looking to finish my postgraduate diploma in Computer Science in 2025. 
 
-- I have learned
+- 🌲 I have learned
   -   Java
   -   Python
   -   C#
