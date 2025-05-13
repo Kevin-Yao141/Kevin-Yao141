@@ -2,15 +2,16 @@
 I am a postgraduate computer science student at the university of Auckland, looking to finish my postgraduate diploma in Computer Science in 2025. 
 
 - I have learned
--   Java
--   Python
--   C#
+  -   Java
+  -   Python
+  -   C#
+
 
 - 🌱 I’m currently learning ...
--   React
--   Javascript
--   MongoDB
--   ExpressJS
+  - React
+  - Javascript
+  - MongoDB
+  - ExpressJS
 
 
 <!--
